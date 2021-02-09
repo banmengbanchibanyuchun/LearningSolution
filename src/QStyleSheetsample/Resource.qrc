@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QSS/Resources/dagou.png</file>
+        <file>QSS/Resources/sls_CheckBox_banXuanZhong.png</file>
+        <file>QSS/Resources/sls_CheckBox_jinYong.png</file>
+        <file>QSS/Resources/sls_CheckBox_weiXuanZhong.png</file>
+        <file>QSS/Resources/sls_CheckBox_xuanZhong.png</file>
+        <file>QSS/Resources/sls_comboBox.png</file>
+        <file>QSS/Resources/sls_comboBox_Disable.png</file>
+        <file>QSS/Resources/sls_down.png</file>
+        <file>QSS/Resources/sls_down_Disable.png</file>
+        <file>QSS/Resources/sls_down_hover.png</file>
+        <file>QSS/Resources/sls_QTreeView_xiajiantou.png</file>
+        <file>QSS/Resources/sls_QTreeView_xiajiantou_hover.png</file>
+        <file>QSS/Resources/sls_QTreeView_youjiantou.png</file>
+        <file>QSS/Resources/sls_QTreeView_youjiantou_hover.png</file>
+        <file>QSS/Resources/sls_radioButton_off.png</file>
+        <file>QSS/Resources/sls_radioButton_off_Disable.png</file>
+        <file>QSS/Resources/sls_radioButton_on.png</file>
+        <file>QSS/Resources/sls_radioButton_on_Disable.png</file>
+        <file>QSS/Resources/sls_shangyi.png</file>
+        <file>QSS/Resources/sls_shuangxianghengjiantou.png</file>
+        <file>QSS/Resources/sls_shuangxiangshujiantou.png</file>
+        <file>QSS/Resources/sls_up.png</file>
+        <file>QSS/Resources/sls_up_Disable.png</file>
+        <file>QSS/Resources/sls_up_hover.png</file>
+        <file>QSS/Resources/sls_xiayi.png</file>
+        <file>QSS/Resources/sls_youyi.png</file>
+        <file>QSS/Resources/sls_zuoyi.png</file>
+        <file>commenstylesheet.qss</file>
+        <file>commenstylesheet0.qss</file>
+        <file>commenstylesheet1.qss</file>
+        <file>commenstylesheet2.qss</file>
+        <file>commenstylesheet3.qss</file>
+        <file>QSS/QSS/style.qss</file>
+    </qresource>
+</RCC>
