@@ -11,3 +11,4 @@ bin/*.dll
 bin/*.a
 bin/*.lib
 bin/*.exe
+build/
